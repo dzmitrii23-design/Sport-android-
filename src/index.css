@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-phase-prepare: #1e3a8a;
+  --color-phase-work: #7f1d1d;
+  --color-phase-rest: #14532d;
+  --color-phase-big-rest: #312e81;
+}
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #0a0a0a;
+}

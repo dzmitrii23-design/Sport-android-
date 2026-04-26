@@ -1,0 +1,21 @@
+{
+  "name": "Протокол: ТАКТИКА",
+  "short_name": "Тактика",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjM2I4MmY2Ij48cGF0aCBkPSJNMjU2IDBMMCAyNTZsMjU2IDI1NiAyNTYtMjU2TDI1NiAwem0wIDg2LjZsMTY5LjQgMTY5LjRMMjU2IDQyNS40IDg2LjYgMjU2IDI1NiA4Ni42eiIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjM2I4MmY2Ij48cGF0aCBkPSJNMjU2IDBMMCAyNTZsMjU2IDI1NiAyNTYtMjU2TDI1NiAwem0wIDg2LjZsMTY5LjQgMTY5LjRMMjU2IDQyNS40IDg2LjYgMjU2IDI1NiA4Ni42eiIvPjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
